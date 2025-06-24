@@ -1,3 +1,3 @@
-今天是个风和日丽的星期四  
-which is a good day to create GitHub  
-happy coding  
+This capstone project explores the mental health and turnover intention of healthcare workers using synthetic dataset of 5,000 entries from Kaggle. With growing concerns about staff burnout, stress, and job dissatisfaction, the analysis aims to uncover actionable insights to support workforce well-being and retention. 
+
+By applying data analytics techniques, the project identifies key factors associated with turnover intent, such as stress level, burnout frequency, job satisfaction, access to Employee Assistance Programs (EAPs), and mental health-related absences. These insights are translated into data visualizations and recommendations to support organizational-level interventions.
